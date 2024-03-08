@@ -28,8 +28,8 @@
   }
   .envelope-wrapper > .envelope {
     position: relative;
-    width: 500px;/*300-230*/
-    height: 400px;
+    width: 480px;/*300-230*/
+    height: 380px;
   }
   .envelope-wrapper > .envelope::before {
     content: "";
